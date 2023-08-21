@@ -1,0 +1,28 @@
+[
+    {
+      "accountnumber": 123456789,
+      "email": "123456789@gmail.com",
+      "username": "user",
+      "firstname": "firstname",
+      "lastname": "lastname",
+      "nric": "A1234568K",
+      "phonenumber":123456098,
+      "password":"qwert123",
+      "dob":"2010-01-01",
+      "address":"randome address",
+      "country":"Singapore"
+    },
+    {
+      "accountnumber": 123456780,
+      "email": "123456780@gmail.com",
+      "username": "user1",
+      "firstname": "firstname1",
+      "lastname": "lastname1",
+      "nric": "A1234569K",
+      "phonenumber":123456099,
+      "pwd":"qwert1232",
+      "dob":"2010-01-02",
+      "address":"randome address1",
+      "country":"Singapore"
+    }
+]
